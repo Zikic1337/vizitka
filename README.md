@@ -1,5 +1,9 @@
-# vizitka-2023
+# Moje Vizitka
 
-Šablona projektu pro cvičení práce s Gitem.
+Práce s GitHubem v Praktické Informatice
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+Výsledkem je [webová stránka] https://zikic1337.github.io/vizitka/
+
+##Ukázka výsledku
+
+![webová stránka](vizitka.png)
