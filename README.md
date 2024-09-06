@@ -6,4 +6,4 @@ Výsledkem je [webová stránka] https://zikic1337.github.io/vizitka/
 
 ##Ukázka výsledku
 
-![webová stránka](vizitka.png)
+![webová stránka](Vizitka.png)
