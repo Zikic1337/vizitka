@@ -4,4 +4,4 @@
 
 Výsledkem je [webová stránka] https://zikic1337.github.io/vizitka/
 
-![webová stránka](Vizitka.png)
+![obrázek](Vizitka.png)
