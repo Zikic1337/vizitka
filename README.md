@@ -4,4 +4,4 @@
 
 Výsledkem je (https://zikic1337.github.io/vizitka/)
 
-! [obrázek](Vizitka.png)
+![obrázek](Vizitka.png)
